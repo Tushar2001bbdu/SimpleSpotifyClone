@@ -32,9 +32,9 @@ li{
     color: white;
     display: flex;
     width:100%;
-    margin:23px auto;
-    border-radius: 15px;
-    padding:30px;
+    margin:1.4375rem auto;
+    border-radius: 0.9375rem;
+    padding:1.875rem;
 }
 .bottom{
     display: flex;
@@ -59,7 +59,7 @@ li{
     color:white;
 }
 .icons{
-    margin-top:20px;
+    margin-top:1.25rem;
 
 }
 .container{
@@ -68,17 +68,17 @@ li{
     background-repeat: no-repeat;
     display: flex;
     flex-direction: column;
-    margin-bottom:20px;
+    margin-bottom:1.25rem;
 }
 .song{
     display: flex;
    justify-content: space-around;
    align-items: center;
    background-color: rgb(22, 206, 22);
-   padding: 5px;
+   padding: 0.3125rem;
    color: black;
-   border-radius: 20px;
-   margin-bottom: 15px;
+   border-radius: 1.25rem;
+   margin-bottom: 0.9375rem;
 }
 .Duration{
     display: flex;
@@ -88,8 +88,8 @@ li{
     
 }
 .play{
-    margin-top:0px;
-    margin-left:20px;
+    margin-top:0rem;
+    margin-left:1.25rem;
     
 }
 
@@ -99,9 +99,9 @@ li{
 }
 .heading{
     display: flex;
-    height:25px;
+    height:1.5625rem;
     justify-content: center;
     align-items: center;
-    padding-bottom: 20px;
+    padding-bottom: 1.25rem;
 
 }
