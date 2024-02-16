@@ -27,7 +27,7 @@ li{
 }
 .container{
     font-family: 'Belanosima', sans-serif;
-    min-height: 55vh;
+    min-height: 30vh;
     background-color: black;
     color: white;
     display: flex;
